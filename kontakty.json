@@ -1,0 +1,186 @@
+[
+    {
+        "first_name": "Piotr",
+        "last_name": "Pacuk",
+        "phone": "798-512-202",
+        "city": "Rumia",
+        "street": "Żwirki",
+        "house_number": "1"
+    },
+    {
+        "first_name": "Anna",
+        "last_name": "Nowak",
+        "phone": "123-456-789",
+        "city": "Wejherowo",
+        "street": "Kwiatowa",
+        "house_number": "5"
+    },
+    {
+        "first_name": "Marek",
+        "last_name": "Kowalski",
+        "phone": "234-567-890",
+        "city": "Reda",
+        "street": "Leśna",
+        "house_number": "12"
+    },
+    {
+        "first_name": "Katarzyna",
+        "last_name": "Wiśniewska",
+        "phone": "345-678-901",
+        "city": "Rumia",
+        "street": "Słoneczna",
+        "house_number": "7"
+    },
+    {
+        "first_name": "Tomasz",
+        "last_name": "Zieliński",
+        "phone": "456-789-012",
+        "city": "Wejherowo",
+        "street": "Łąkowa",
+        "house_number": "3"
+    },
+    {
+        "first_name": "Magdalena",
+        "last_name": "Wójcik",
+        "phone": "567-890-123",
+        "city": "Reda",
+        "street": "Krótka",
+        "house_number": "10"
+    },
+    {
+        "first_name": "Paweł",
+        "last_name": "Mazur",
+        "phone": "678-901-234",
+        "city": "Rumia",
+        "street": "Główna",
+        "house_number": "8"
+    },
+    {
+        "first_name": "Julia",
+        "last_name": "Dąbrowska",
+        "phone": "789-012-345",
+        "city": "Wejherowo",
+        "street": "Parkowa",
+        "house_number": "4"
+    },
+    {
+        "first_name": "Michał",
+        "last_name": "Lewandowski",
+        "phone": "890-123-456",
+        "city": "Reda",
+        "street": "Polna",
+        "house_number": "6"
+    },
+    {
+        "first_name": "Aleksandra",
+        "last_name": "Kamińska",
+        "phone": "901-234-567",
+        "city": "Rumia",
+        "street": "Nowa",
+        "house_number": "2"
+    },
+    {
+        "first_name": "Krzysztof",
+        "last_name": "Piotrowski",
+        "phone": "234-567-890",
+        "city": "Wejherowo",
+        "street": "Zielona",
+        "house_number": "11"
+    },
+    {
+        "first_name": "Martyna",
+        "last_name": "Kaczmarek",
+        "phone": "345-678-901",
+        "city": "Reda",
+        "street": "Brzozowa",
+        "house_number": "9"
+    },
+    {
+        "first_name": "Szymon",
+        "last_name": "Wojciechowski",
+        "phone": "456-789-012",
+        "city": "Rumia",
+        "street": "Spacerowa",
+        "house_number": "13"
+    },
+    {
+        "first_name": "Natalia",
+        "last_name": "Grabowska",
+        "phone": "567-890-123",
+        "city": "Wejherowo",
+        "street": "Piękna",
+        "house_number": "14"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Kubiak",
+        "phone": "678-901-234",
+        "city": "Reda",
+        "street": "Wesoła",
+        "house_number": "15"
+    },
+    {
+        "first_name": "Joanna",
+        "last_name": "Pawlak",
+        "phone": "789-012-345",
+        "city": "Rumia",
+        "street": "Krucza",
+        "house_number": "16"
+    },
+    {
+        "first_name": "Łukasz",
+        "last_name": "Szymański",
+        "phone": "890-123-456",
+        "city": "Wejherowo",
+        "street": "Jesionowa",
+        "house_number": "17"
+    },
+    {
+        "first_name": "Patrycja",
+        "last_name": "Kowalczyk",
+        "phone": "901-234-567",
+        "city": "Reda",
+        "street": "Modra",
+        "house_number": "18"
+    },
+    {
+        "first_name": "Grzegorz",
+        "last_name": "Nowicki",
+        "phone": "234-567-890",
+        "city": "Rumia",
+        "street": "Wiosenna",
+        "house_number": "19"
+    },
+    {
+        "first_name": "Ewa",
+        "last_name": "Zając",
+        "phone": "345-678-901",
+        "city": "Wejherowo",
+        "street": "Letnia",
+        "house_number": "20"
+    },
+    {
+        "first_name": "Paulina",
+        "last_name": "Wandtke",
+        "phone": "340-549-382",
+        "city": "Rumia",
+        "street": "Kosynierów",
+        "house_number": "51"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Kowalski",
+        "phone": "234-678-456",
+        "city": "Reda",
+        "street": "Wrzosowa",
+        "house_number": "31"
+    },
+    {
+        "first_name": "Aleksadra",
+        "last_name": "Kwiatkowska",
+        "phone": "001-345-567",
+        "city": "Wejherowo",
+        "street": "Konopna",
+        "house_number": "1"
+    }
+]
